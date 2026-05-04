@@ -2,7 +2,7 @@
 
 ## Student Information
 
-* Student Name: UBEYSINGHE U A D I
+* Student Name: UBEYSINGHE U A D 
 * Registration Number: IT23611542
 * Module: IT3040 – ITPM
 * Assignment: Assignment 1 – Option 1
